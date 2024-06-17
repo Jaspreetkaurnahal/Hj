@@ -327,11 +327,11 @@ Vip 🌟 :
 -> Concurrents Attack : 3
 
 Price List💸 :
-Day-->250 Rs ✔️
-Week-->800 Rs ✔️
-Month-->1600 Rs ✔️
+Day-->150 Rs ✔️
+Week-->500 Rs ✔️
+Month-->100 Rs ✔️
 
-Dm to Buy @AaTanK_GHOST
+Dm to Buy @NONAME1937739
 '''
     bot.reply_to(message, response)
 
